@@ -81,4 +81,25 @@ Como aplico o conhecimento adquirido nos projetos:
 > Extração de dados brutos (SQL, APIs, Web Scraping).
 
 `2. PROCESSAMENTO` ⚙️
-> Limpeza, tratamento de nulos e ETL (
+> Limpeza, tratamento de nulos e ETL (Extract, Transform, Load).
+
+`3. INTELIGÊNCIA` 🧠
+> **Análise Exploratória** para entender o passado.
+> **Machine Learning** para prever o futuro.
+
+`4. VISUALIZAÇÃO` 📊
+> Criação de Dashboards interativos (Power BI/Streamlit).
+
+`5. DECISÃO` 🎯
+> Entrega de valor para o negócio e tomada de decisão estratégica.
+
+---
+
+## 📫 Connect
+
+*"Todo mundo merece aprender. Todo mundo pode ir mais longe."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+
+---
+*Powered by **Gran Faculdade** | Ciência de Dados (2025)*
