@@ -73,16 +73,12 @@ Acompanhe meu progresso de desbloqueio de skills e certificações ao longo do c
 
 ---
 
-## 📈 Pipeline de Dados
+## 🔄 Fluxo de Trabalho (Pipeline)
 
-```mermaid
-graph LR
-    A[Coleta de Dados] --> B(Limpeza/ETL);
-    B --> C{Análise Exploratória};
-    C -->|Padrões| D[Machine Learning];
-    C -->|Insights| E[Dashboards/BI];
-    D --> F[Tomada de Decisão];
-    E --> F;
-    style A fill:#00B2FF,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#F2C811,stroke:#333,stroke-width:2px,color:#000
-    style F fill:#00B2FF,stroke:#333,stroke-width:4px,color:#fff
+Como aplico o conhecimento adquirido nos projetos:
+
+`1. COLETA` 📥
+> Extração de dados brutos (SQL, APIs, Web Scraping).
+
+`2. PROCESSAMENTO` ⚙️
+> Limpeza, tratamento de nulos e ETL (
