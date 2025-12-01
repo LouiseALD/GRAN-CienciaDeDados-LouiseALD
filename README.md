@@ -5,15 +5,6 @@
 > *"Identificar padrões ocultos, correlações desconhecidas e tendências de mercado."* 🚀
 
 Bem-vindo(a) ao meu laboratório digital! Este repositório documenta minha evolução no curso de Tecnologia em Ciência de Dados do **Gran**. Estou no **último semestre**, aplicando técnicas avançadas de Mineração de Dados e finalizando meu portfólio profissional.
-
----
-
-## 🎯 Status: Reta Final (5º Semestre)
-
-Estou focado nas disciplinas finais de **Data Mining**, **Warehousing** e no desenvolvimento de soluções inovadoras.
-
-![Progress](https://geps.dev/progress/90?color=00B2FF&background=dcdcdc)
-
 ---
 
 ## 🛠️ Data Stack
@@ -86,3 +77,11 @@ graph LR
     style A fill:#00B2FF,stroke:#333,stroke-width:2px,color:#fff
     style D fill:#F2C811,stroke:#333,stroke-width:2px,color:#000
     style F fill:#00B2FF,stroke:#333,stroke-width:4px,color:#fff
+
+
+
+## 🎯 Status: Reta Final (5º Semestre)
+
+Estou focado nas disciplinas finais de **Data Mining**, **Warehousing** e no desenvolvimento de soluções inovadoras.
+
+![Progress](https://geps.dev/progress/90?color=00B2FF&background=dcdcdc)
