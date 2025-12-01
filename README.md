@@ -1,18 +1,10 @@
-# CIÊNCIA DE DADOS | GRAN FACULDADE
+# TECNÓLOGO EM CIÊNCIA DE DADOS | GRAN FACULDADE
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=DD303E&height=120&section=header&text=DATA%20SCIENCE&fontSize=50&fontAlignY=50&desc=GRAN%20FACULDADE%20%7C%20TECNOLOGIA%20EM%20CI%C3%8ANCIA%20DE%20DADOS&descAlignY=75&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=DD303E&height=120&section=header&text=CI%C3%8ANCIA%20DE%20DADOS&fontSize=45&fontAlignY=50&desc=GRAN%20FACULDADE%20%7C%20TECN%C3%93LOGO&descAlignY=75&descAlign=50&fontColor=ffffff)
 
 **Identificar padrões ocultos, correlações desconhecidas e tendências de mercado.**
 
-Este repositório documenta a trajetória acadêmica e profissional no curso de Tecnologia em Ciência de Dados do Gran. O foco é a aplicação de metodologias ágeis e ferramentas de ponta para transformação de dados em inteligência estratégica.
-
----
-
-## STATUS DO PROJETO
-
-**Reta Final (5º Semestre)** | Foco em Data Mining e Soluções Inovadoras.
-
-![Progress](https://geps.dev/progress/90?color=DD303E&background=E0E0E0)
+Este repositório documenta a trajetória acadêmica e profissional no curso de Tecnólogo em Ciência de Dados do Gran. O foco é a aplicação de metodologias ágeis e ferramentas de ponta para transformação de dados em inteligência estratégica.
 
 ---
 
@@ -25,6 +17,7 @@ Ferramentas e tecnologias utilizadas no desenvolvimento dos projetos:
 ![NoSQL](https://img.shields.io/badge/NOSQL-404040?style=flat-square&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![AWS Cloud](https://img.shields.io/badge/AWS_CLOUD-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/MICROSOFT_AZURE-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -72,27 +65,11 @@ O curso é organizado em módulos de competência, conferindo certificações pr
 
 ---
 
-## PIPELINE DE DADOS
+## STATUS DO CURSO
 
-Metodologia de trabalho aplicada nos projetos deste repositório:
+**Reta Final (5º Semestre)** | Foco em Data Mining e Soluções Inovadoras.
 
-**1. COLETA (INGESTION)**
-Extração de dados via SQL, APIs ou Web Scraping.
-
-**2. PROCESSAMENTO (ETL)**
-Limpeza, normalização e tratamento de dados brutos.
-
-**3. ANÁLISE (ANALYTICS)**
-Exploração estatística e modelagem preditiva (Machine Learning).
-
-**4. VISUALIZAÇÃO (VIZ)**
-Construção de dashboards para suporte à decisão.
-
----
-
-## CONTATO PROFISSIONAL
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-DD303E?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+![Progress](https://geps.dev/progress/90?color=DD303E&background=E0E0E0)
 
 ---
 *Gran Faculdade | Ciência de Dados*
